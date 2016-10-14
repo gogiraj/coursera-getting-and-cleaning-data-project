@@ -1,13 +1,13 @@
-# Code Book Resuting Data Fields in Tidy.txt
+# Code Book Resuting Data Fields in TidyData.txt
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in `tidyData.txt`.
 
 ## Identifiers 
 
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken
 
-## Measurements in  Tidy.txt
+## Measurements in  TidyData.txt
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
